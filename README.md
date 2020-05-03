@@ -10,8 +10,11 @@ This is a clone of the famous application Uber, and its done with the flutter fr
 
 ## Authors Information
 My name is Justice Mensah, I am a flutter and python developer, for more information please check the links bellow.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 7918e8d9b00ccaf8818ebce786a2613a30fd8f37
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
