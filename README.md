@@ -9,7 +9,7 @@ This is a clone of the famous application Uber, and its done with the flutter fr
 * insert your Api key for Ios (ios ->> runner ->> appdelegate.m)
 
 ## Authors Information
-My name is Justice Mensah, I am a flutter and python developer, for more information please check the links bellow.
+My name is Justice Mensah, I am a flutter and PHP developer, for more information please check the links bellow.
 <<<<<<< HEAD
 
 
